@@ -12,7 +12,7 @@
 
 Estudante de Ciência da Computação construindo projetos, explorando conceitos e colocando ideias em prática através do código.
 
-- 🎓 Graduando em Ciência da Computação (1/8)
+- 🎓 Graduando em Ciência da Computação
 - 💻 Atualmente trabalho como Analista de Plnajemento e Contro Operacional Junior
 - 🎲 Profssional com foco na área de análise de dados  
 
