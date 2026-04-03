@@ -1,24 +1,68 @@
-## Olá! Eu sou o Kaio Fontes, Analista de Dados Junior
+![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
+<h1 align="center">Olá! Eu sou o Kaio 🎲 </h1>
+
+###
+
 <div align="center">
-  <a href="https://github.com/KaioFontes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioFontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioFontes&layout=compact&langs_count=7&theme=dracula"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#   Sobre mim
+
+Estudante de Ciência da Computação construindo projetos, explorando conceitos e colocando ideias em prática através do código.
+
+- 🎓 Graduando em Ciência da Computação (1/8)
+- 💻 Atualmente trabalho como Analista de Plnajemento e Contro Operacional Junior
+- 🎲 Profssional com foco na área de análise de dados  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=malucodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+
+---
+
+#   Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/maria-luiza-benevides/](https://www.linkedin.com/in/kaio-fontes-317514178/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
-  
-  ##
+
+</td>
+
+<td width="50%" valign="top">
+
+#   Tecnologias & Ferramentas
+
+<div align="left">
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+<img width="10" />
+
  
-<div> 
-  <a href="https://instagram.com/kaiofoontes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:Kaiofontes69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaio-fontes-317514178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
+</div>
+
+---
+
+#   Certificações
+
+<a href="https://www.dio.me/certificate/KR0FXCRY/share" target="_blank">
+  <img src="https://assets.dio.me/-qT3hpbcGt1Ho_J6qRfRK_Y9cKZZTfrTd-qIit35GV0/f:webp/q:80/w:120/L3RyYWNrcy8xNTU1ODQ2Ny02YjgxLTQ3ODAtODQzOS02N2EyZjU0NjBmMjgucG5n" height="90"/>
+</a>
+
+</div>
+</td>
+</tr>
+</table>
 </div>
